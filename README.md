@@ -7,6 +7,8 @@
 ``` react-native run-ios ```
 
 ## Explanation
+Example of playgrounds: https://stephengrider.github.io/JSPlaygrounds/
+
 
 
 ## Output
